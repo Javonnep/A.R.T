@@ -1,10 +1,10 @@
-The kaggle competition is <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques">here</a>
+The kaggle competition is <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques">here</a>. It the House Prices - **A**dvanced **R**egression **T**echnique repo
 
 The description of the dataset is [available here](https://wagon-public-datasets.s3.amazonaws.com/Machine%20Learning%20Datasets/ML_Houses_dataset_description.txt). 
 
 
 
-In this project I participated in the "House Prices - Advanced Regression Techniques" Kaggle competition. 
+In this project, I participated in the "House Prices - Advanced Regression Techniques" Kaggle competition. 
 
 - Results: On average, my predictions were within 7.31% of the actual value
 - ETL: I used sklearn pipelines to Load my data
