@@ -12,3 +12,10 @@ In this project, I participated in the "House Prices - Advanced Regression Techn
 - Kaggle: My result was in the top 3rd of all submissions.
 - Hyperparameter tuning: Combined `RandomSearchCV` with my pipelines
 - Data transformations: Created multiple custom transformer classes by Inheriting from `BaseEstimator`, `TransformerMixin`.
+
+Future work:
+
+- Engineer some new features
+- Try a Neural Netork
+- Do more EDA
+- Do more sophisticated data pre-processing
