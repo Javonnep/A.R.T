@@ -1,4 +1,4 @@
-The kaggle competition is <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques">here</a>. It the House Prices - **A**dvanced **R**egression **T**echnique repo
+The kaggle competition is <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques">here</a>. It the House Prices - **A**dvanced **R**egression **T**echnique competition.
 
 The description of the dataset is [available here](https://wagon-public-datasets.s3.amazonaws.com/Machine%20Learning%20Datasets/ML_Houses_dataset_description.txt). 
 
