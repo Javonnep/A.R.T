@@ -15,6 +15,7 @@ In this project, I participated in the "House Prices - Advanced Regression Techn
 
 Future work:
 
+- Use K-Fold cross validation
 - Engineer some new features
 - Try a Neural Netork
 - Do more EDA
